@@ -66,6 +66,6 @@ All data used in this project is sourced from [**MyDramaList (MDL)**](https://my
 
 - [Emrehan Çetin](https://github.com/emrehancetin)
 
-## License
+## Github
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+[**Github Link**](https://github.com/emrehancetin/top30kdramas)
